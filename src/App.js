@@ -1,4 +1,5 @@
 import Header from "./components/Header";
+import Hero from "./Components/Hero";
 import Footer from "./Components/Footer";
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
       <Header />
 
       {/* Contenu principal */}
-
+      <Hero />
       <Footer />
     </div>
   );
