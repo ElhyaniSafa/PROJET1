@@ -1,6 +1,6 @@
 import Header from "./components/Header";
 import Hero from "./Components/Hero";
-import Footer from "./components/Footer";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
